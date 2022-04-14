@@ -1,0 +1,8 @@
+prefix=/home/aaa/catkin_ws/src/build/devel
+
+Name: yh_turtle_triangle
+Description: Description of yh_turtle_triangle
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

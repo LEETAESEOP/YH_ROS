@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: yh_star
+Description: Description of yh_star
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lyh_star
+Requires: 

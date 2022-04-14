@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: service_tutorial
+Description: Description of service_tutorial
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 
