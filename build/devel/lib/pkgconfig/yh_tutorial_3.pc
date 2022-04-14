@@ -1,8 +1,0 @@
-prefix=/home/aaa/catkin_ws/src/build/devel
-
-Name: yh_tutorial_3
-Description: Description of yh_tutorial_3
-Version: 0.0.0
-Cflags: -I/home/aaa/catkin_ws/src/build/devel/include
-Libs: -L${prefix}/lib -lyh_tutorial_3
-Requires: 

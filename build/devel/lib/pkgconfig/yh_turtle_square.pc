@@ -1,8 +1,0 @@
-prefix=/home/aaa/catkin_ws/src/build/devel
-
-Name: yh_turtle_square
-Description: Description of yh_turtle_square
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
