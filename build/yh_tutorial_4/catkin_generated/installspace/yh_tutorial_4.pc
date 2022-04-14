@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: yh_tutorial_4
+Description: Description of yh_tutorial_4
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lyh_tutorial_4
+Requires: 
